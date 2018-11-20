@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+.control-container{
+    padding: 10px;
+}
+
+#controls{
+    text-align: center;
+    height: 50px;
+    
+}
+
+#result{
+    text-align: center;
+    width: 600px;
+}
